@@ -1,3 +1,4 @@
+<center><h1>Hi 👋, I'm Ali</h1></center>
 - 👋 Hi, I’m @mostlyali07
 - 👀 I’m interested in JS, CSS, HTML
 - 🌱 I’m currently learning Web & App Hybrid Apllication Development
