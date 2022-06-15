@@ -1,7 +1,7 @@
 <h1 align="center" >Hi 👋, I'm ALI</h1>
 <!-- - 👋 Hi, I’m @mostlyali07 -->
-- 👀 I’m interested in JS, CSS, HTML
-- 🌱 I’m currently learning Web & App Hybrid Apllication Development
+- 👀 I’m interested in JS, CSS, HTML <br />
+- 🌱 I’m currently learning Web & App Hybrid Apllication Development <br />
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me asyed7477@gmail.com
 
