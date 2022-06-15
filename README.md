@@ -1,5 +1,5 @@
-<h1 align="center" >Hi 👋, I'm Ali</h1>
-- 👋 Hi, I’m @mostlyali07
+<h1 align="center" >Hi 👋, I'm ALI</h1>
+<!-- - 👋 Hi, I’m @mostlyali07 -->
 - 👀 I’m interested in JS, CSS, HTML
 - 🌱 I’m currently learning Web & App Hybrid Apllication Development
 <!-- - 💞️ I’m looking to collaborate on ... -->
