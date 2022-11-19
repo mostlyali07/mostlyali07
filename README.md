@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **JS, CSS, HTML**
 
-- 🌱 I’m currently learning **React, React Native, Firebase**
+- 🌱 I’m currently learning **Firebase, React, React Native**
 
 - 📫 How to reach me **asyed7477@gmail.com**
 
