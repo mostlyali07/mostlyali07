@@ -35,12 +35,20 @@
 
 
 
-### I’m currently learning Web & App Hybrid Application Development  
-🔭 I’m currently working on JS, CSS, HTML
+### Hi there! I'm thrilled to have you visit my GitHub profile. Here you'll find a collection of my projects and contributions in the realm of web and app hybrid application development. Feel free to explore and get a glimpse of my work!
 
-🌱 I’m currently learning Firebase, React, React Native
+# About Me
+I'm a passionate developer with a keen interest in building robust and user-friendly web and app hybrid applications. I love diving into the world of JavaScript, CSS, and HTML to craft engaging and interactive experiences.
 
-📫 How to reach me asyed7477@gmail.com  
+# Current Focus
+🔭 I have recently completed a course in web and app hybrid application development, where I gained a solid foundation in JavaScript, CSS, and HTML. I've worked on several projects during this course, honing my skills and gaining valuable experience.
+
+🌱 My current learning journey revolves around expanding my knowledge in Firebase, React, and React Native. I believe these technologies will allow me to take my development skills to the next level and create even more powerful and scalable applications.
+
+# How to Reach Me
+I'm always open to connecting with fellow developers, collaborators, or anyone interested in discussing ideas. If you'd like to get in touch, please feel free to reach out to me via email at asyed7477@gmail.com. I'd be delighted to hear from you!
+
+Thank you for visiting my profile, and I hope you find something inspiring or useful among my projects. Happy coding!
 
 <br/>  
 
