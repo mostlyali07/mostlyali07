@@ -34,9 +34,9 @@
   
 
 
-<div style="text-align: center;">
-### Hi there! I'm thrilled to have you visit my GitHub profile. Here you'll find a collection of my projects and contributions in the realm of web and app hybrid application development. Feel free to explore and get a glimpse of my work!
+### <div align="center">Hi there! I'm thrilled to have you visit my GitHub profile. Here you'll find a collection of my projects and contributions in the realm of web and app hybrid application development. Feel free to explore and get a glimpse of my work!
 </div>
+
 ## About Me
 I'm a passionate developer with a keen interest in building robust and user-friendly web and app hybrid applications. I love diving into the world of JavaScript, CSS, and HTML to craft engaging and interactive experiences.
 
