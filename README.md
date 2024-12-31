@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋! My name is Ali💫</h1>
-🔭 I’m currently working on JavaScript / TypeScript<br>  
-👯 I’m looking to collaborate with people who enjoy trying new things<br>  
-🤝 I’m eager to help those who are new to web development<br>  
-🌱 I’m currently learning Full Stack Development<br>  
-💬 Feel free to ask me about innovative ideas or new concepts<br>  
-⚡ Fun Fact: I love experimenting with concepts and find joy in solving unique challenges!<br>  
-📧 Feel free to reach me at **asyed7477@gmail.com**  
+# Hi 👋! My name is Ali 💫  
+- 🔭 I’m currently working on **JavaScript / TypeScript**  
+- 👯 I’m looking to collaborate with people who enjoy trying new things  
+- 🤝 I’m eager to help those who are new to web development  
+- 🌱 I’m currently learning **Full Stack Development**  
+- 💬 Feel free to ask me about innovative ideas or new concepts  
+- ⚡ **Fun Fact:** I love experimenting with concepts and find joy in solving unique challenges!  
+- 📧 Feel free to reach me at **asyed7477@gmail.com**  
 
 
 ## 🌐 Socials:
