@@ -7,6 +7,7 @@
 - ⚡ **Fun Fact:** I love experimenting with concepts and find joy in solving unique challenges!  
 - 📧 Feel free to reach me at **asyed7477@gmail.com**  
 
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mostlyali07) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mostlyali07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mostlyali07) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mostlyali07) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/mostlyali07) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mostlyali07) 
@@ -22,8 +23,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mostlyali07&icon=0&color=0)](https://visitcount.itsvg.in)
