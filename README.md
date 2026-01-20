@@ -1,11 +1,13 @@
-# Hi 👋! My name is Ali 💫  
-- 🔭 I’m currently working on **JavaScript / TypeScript**  
-- 👯 I’m looking to collaborate with people who enjoy trying new things  
-- 🤝 I’m eager to help those who are new to web development  
-- 🌱 I’m currently learning **Full Stack Development**  
-- 💬 Feel free to ask me about innovative ideas or new concepts  
-- ⚡ **Fun Fact:** I love experimenting with concepts and find joy in solving unique challenges!  
-- 📧 Feel free to reach me at **asyed7477@gmail.com**  
+# 👋 Hey there, I’m Ali  
+
+🔭 Currently working with **JavaScript / TypeScript**  
+👯 Open to collaborating with people who love exploring new ideas  
+🤝 Always happy to help beginners in web development  
+🌱 Learning **Full Stack Development**  
+💬 Ask me about innovative ideas, new concepts, or creative problem-solving  
+⚡ **Fun Fact:** I love experimenting with ideas and turning challenges into fun puzzles  
+
+📧 Reach me at: **asyed7477@gmail.com**
 
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
